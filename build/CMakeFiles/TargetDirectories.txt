@@ -1,3 +1,0 @@
-/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir
-/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/edit_cache.dir
-/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/rebuild_cache.dir

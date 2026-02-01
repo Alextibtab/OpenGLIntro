@@ -1,9 +1,0 @@
-{
-  "revision": 0,
-  "rules": [
-    {
-      "primary-output": "CMakeFiles/IntroToOpenGL.dir/src/Transformation_3D.cpp.o"
-    }
-  ],
-  "version": 1
-}
