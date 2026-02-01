@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-opengl",
+  "version": "1.0.0",
+  "description": "Learn OpenGL Companion App",
+  "dependencies": [
+    "opengl",
+    "glfw3",
+    "glm",
+    { "name": "glad",
+      "features": ["gl-api-33"]
+    },
+    {
+      "name": "imgui",
+      "features": ["glfw-binding", "opengl3-binding", "docking-experimental"]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+#pragma once
+#include <stdio.h>
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <functional>
+#include <glad/glad.h>
+#include <GLFW/glfw3.h>
+//Imgui
+#include "imgui.h"
+#include "imgui_impl_glfw.h"
+#include "imgui_impl_opengl3.h"
+//General
+#include "Shader.h"
+#include "Vector.h"
+#include "stb_image.h"
+#include "Matrix.h"
+#include "constants.h"
+
+//TODO: Remove all the using statements
+using namespace Matrix;
+using namespace Vector;
+
+class GameState
+{
+public:
+	virtual void Start() = 0;
+	virtual void Update() = 0;
+	virtual void ImGuiLeftPanel() = 0;
+	virtual void ImGuiRender(GLFWwindow* window) = 0;
+	virtual void Render() = 0;
+	virtual void HandleInput(GLFWwindow* window) = 0;
+	virtual void Exit() = 0;
+};

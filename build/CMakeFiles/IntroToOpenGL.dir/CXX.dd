@@ -1,0 +1,77 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/IntroToOpenGL.dir/src/CoordinateSystems.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/FirstShader.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/FirstTriangle.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/HelloTriangle.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/Intro.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/IntroTexture.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/IntroTransformation.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/MatrixGraphTransformation.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/MatrixUniform.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/MipmapOptions.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/MyMatrixClass.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/Right_LeftHanded.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/SceneManager.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/SecondTriangle.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/Shader.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/ShaderClass.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/Shaders.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/SierpinskiTriangle.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/StitchingTest.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TestMain.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TexelViewer.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TextureMain.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TextureMapping_3D.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TransformationMain.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/Transformation_3D.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/Translate_Rotate_Scale.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TriangleTexture.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TriangleWithVertexDataManipulation.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TwoTextures.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/TwoTriangles.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/UniformsInShader.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/VertexAttributes.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/VertexPosToFrag.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/ViewMatrix.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/constants.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/glmTest.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/main.cpp.o: dyndep
+
+build CMakeFiles/IntroToOpenGL.dir/src/stb_image.cpp.o: dyndep
+

@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/IntroToOpenGL.dir/src/Translate_Rotate_Scale.cpp.o"
+    }
+  ],
+  "version": 1
+}

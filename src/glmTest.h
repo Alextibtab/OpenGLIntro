@@ -1,0 +1,31 @@
+#pragma once
+#include "TransformationMain.h"
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
+
+class glmTest : public TransformationMain
+{
+public:
+	glmTest();
+	~glmTest();
+
+	void Start() override;
+	void Update() override;
+	void ImGuiRender(GLFWwindow* window) override;
+	void Render() override;
+	void Exit() override;
+
+	static glmTest* GetInstance();
+
+private:
+	static glmTest instance;
+	Shader shader;
+
+	bool wireframeMode = false;
+	bool rotateAroundX = false, rotateAroundY = false, rotateAroundZ = true;
+
+	uint32_t VAO = 0, VBO = 0, EBO = 0;
+	uint32_t textures[2] = { 0, 0 };
+};
+

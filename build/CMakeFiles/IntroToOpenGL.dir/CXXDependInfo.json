@@ -1,0 +1,216 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/tibtab/projects/c++/OpenGLIntro/build",
+	"dir-cur-src" : "/home/tibtab/projects/c++/OpenGLIntro",
+	"dir-top-bld" : "/home/tibtab/projects/c++/OpenGLIntro/build",
+	"dir-top-src" : "/home/tibtab/projects/c++/OpenGLIntro",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/tibtab/projects/c++/OpenGLIntro/src",
+		"vcpkg_installed/x64-linux/include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir",
+	"sources" : 
+	{
+		"CMakeFiles/IntroToOpenGL.dir/src/CoordinateSystems.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/CoordinateSystems.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/FirstShader.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/FirstShader.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/FirstTriangle.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/FirstTriangle.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/HelloTriangle.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/HelloTriangle.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/Intro.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/Intro.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/IntroTexture.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/IntroTexture.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/IntroTransformation.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/IntroTransformation.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/MatrixGraphTransformation.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/MatrixGraphTransformation.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/MatrixUniform.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/MatrixUniform.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/MipmapOptions.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/MipmapOptions.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/MyMatrixClass.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/MyMatrixClass.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/Right_LeftHanded.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/Right_LeftHanded.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/SceneManager.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/SceneManager.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/SecondTriangle.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/SecondTriangle.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/Shader.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/Shader.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/ShaderClass.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/ShaderClass.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/Shaders.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/Shaders.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/SierpinskiTriangle.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/SierpinskiTriangle.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/StitchingTest.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/StitchingTest.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TestMain.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TestMain.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TexelViewer.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TexelViewer.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TextureMain.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TextureMain.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TextureMapping_3D.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TextureMapping_3D.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TransformationMain.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TransformationMain.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/Transformation_3D.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/Transformation_3D.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/Translate_Rotate_Scale.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/Translate_Rotate_Scale.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TriangleTexture.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TriangleTexture.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TriangleWithVertexDataManipulation.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TriangleWithVertexDataManipulation.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TwoTextures.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TwoTextures.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/TwoTriangles.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/TwoTriangles.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/UniformsInShader.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/UniformsInShader.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/VertexAttributes.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/VertexAttributes.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/VertexPosToFrag.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/VertexPosToFrag.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/ViewMatrix.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/ViewMatrix.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/constants.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/constants.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/glmTest.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/glmTest.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/main.cpp"
+		},
+		"CMakeFiles/IntroToOpenGL.dir/src/stb_image.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/tibtab/projects/c++/OpenGLIntro/src/stb_image.cpp"
+		}
+	}
+}

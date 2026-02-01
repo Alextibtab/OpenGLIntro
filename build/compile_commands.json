@@ -1,0 +1,230 @@
+[
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/CoordinateSystems.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/CoordinateSystems.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/CoordinateSystems.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/CoordinateSystems.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/CoordinateSystems.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/FirstShader.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/FirstShader.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/FirstShader.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/FirstShader.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/FirstShader.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/FirstTriangle.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/FirstTriangle.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/FirstTriangle.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/FirstTriangle.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/FirstTriangle.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/HelloTriangle.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/HelloTriangle.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/HelloTriangle.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/HelloTriangle.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/HelloTriangle.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/Intro.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/Intro.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/Intro.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/Intro.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/Intro.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/IntroTexture.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/IntroTexture.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/IntroTexture.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/IntroTexture.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/IntroTexture.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/IntroTransformation.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/IntroTransformation.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/IntroTransformation.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/IntroTransformation.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/IntroTransformation.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/MatrixGraphTransformation.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/MatrixGraphTransformation.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/MatrixGraphTransformation.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/MatrixGraphTransformation.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/MatrixGraphTransformation.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/MatrixUniform.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/MatrixUniform.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/MatrixUniform.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/MatrixUniform.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/MatrixUniform.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/MipmapOptions.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/MipmapOptions.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/MipmapOptions.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/MipmapOptions.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/MipmapOptions.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/MyMatrixClass.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/MyMatrixClass.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/MyMatrixClass.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/MyMatrixClass.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/MyMatrixClass.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/Right_LeftHanded.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/Right_LeftHanded.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/Right_LeftHanded.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/Right_LeftHanded.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/Right_LeftHanded.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/SceneManager.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/SceneManager.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/SceneManager.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/SceneManager.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/SceneManager.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/SecondTriangle.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/SecondTriangle.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/SecondTriangle.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/SecondTriangle.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/SecondTriangle.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/Shader.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/Shader.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/Shader.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/Shader.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/Shader.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/ShaderClass.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/ShaderClass.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/ShaderClass.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/ShaderClass.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/ShaderClass.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/Shaders.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/Shaders.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/Shaders.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/Shaders.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/Shaders.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/SierpinskiTriangle.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/SierpinskiTriangle.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/SierpinskiTriangle.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/SierpinskiTriangle.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/SierpinskiTriangle.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/StitchingTest.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/StitchingTest.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/StitchingTest.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/StitchingTest.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/StitchingTest.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TestMain.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TestMain.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TestMain.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TestMain.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TestMain.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TexelViewer.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TexelViewer.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TexelViewer.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TexelViewer.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TexelViewer.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TextureMain.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TextureMain.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TextureMain.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TextureMain.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TextureMain.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TextureMapping_3D.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TextureMapping_3D.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TextureMapping_3D.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TextureMapping_3D.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TextureMapping_3D.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TransformationMain.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TransformationMain.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TransformationMain.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TransformationMain.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TransformationMain.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/Transformation_3D.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/Transformation_3D.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/Transformation_3D.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/Transformation_3D.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/Transformation_3D.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/Translate_Rotate_Scale.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/Translate_Rotate_Scale.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/Translate_Rotate_Scale.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/Translate_Rotate_Scale.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/Translate_Rotate_Scale.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TriangleTexture.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TriangleTexture.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TriangleTexture.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TriangleTexture.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TriangleTexture.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TriangleWithVertexDataManipulation.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TriangleWithVertexDataManipulation.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TriangleWithVertexDataManipulation.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TriangleWithVertexDataManipulation.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TriangleWithVertexDataManipulation.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TwoTextures.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TwoTextures.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TwoTextures.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TwoTextures.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TwoTextures.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/TwoTriangles.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/TwoTriangles.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/TwoTriangles.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/TwoTriangles.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/TwoTriangles.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/UniformsInShader.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/UniformsInShader.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/UniformsInShader.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/UniformsInShader.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/UniformsInShader.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/VertexAttributes.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/VertexAttributes.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/VertexAttributes.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/VertexAttributes.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/VertexAttributes.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/VertexPosToFrag.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/VertexPosToFrag.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/VertexPosToFrag.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/VertexPosToFrag.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/VertexPosToFrag.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/ViewMatrix.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/ViewMatrix.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/ViewMatrix.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/ViewMatrix.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/ViewMatrix.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/constants.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/constants.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/constants.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/constants.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/constants.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/glmTest.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/glmTest.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/glmTest.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/glmTest.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/glmTest.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/main.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/main.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/main.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/main.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/tibtab/projects/c++/OpenGLIntro/build",
+  "command": "/usr/bin/clang++ -I/home/tibtab/projects/c++/OpenGLIntro/src -isystem /home/tibtab/projects/c++/OpenGLIntro/build/vcpkg_installed/x64-linux/include -std=gnu++20 -Wall -Wextra -Wpedantic @CMakeFiles/IntroToOpenGL.dir/src/stb_image.cpp.o.modmap -o CMakeFiles/IntroToOpenGL.dir/src/stb_image.cpp.o -c /home/tibtab/projects/c++/OpenGLIntro/src/stb_image.cpp",
+  "file": "/home/tibtab/projects/c++/OpenGLIntro/src/stb_image.cpp",
+  "output": "/home/tibtab/projects/c++/OpenGLIntro/build/CMakeFiles/IntroToOpenGL.dir/src/stb_image.cpp.o"
+}
+]
